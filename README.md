@@ -1,4 +1,4 @@
-<h1 align="center">Привет, Я <a href="https://github.com/NIKITSTAR" target="_blank">Никита</a> </h1>
+<h1 align="center">Привет, Я <a href="https://github.com/NIKITSTAR" target="_blank">Никита</a>!</h1>
 <h3 align="center">AQA инженер по автоматизации тестирования и спортсмен</h3>
 
 
