@@ -4,10 +4,6 @@
 
 - 🌱 Я изучаю **Python, AQA, Web**
 
-- 📫 Как со мной связаться **nik.workwork@gmail.com**
-
-- 👨🏻‍💻 Мой опыт <a href="https://linkedin.com/in/nikita-starodubtsev/" target="_blank">**Linkedin**</a>
-
 - 🌍 Я говорю на Русском (native), Английском (B2)
 
 
